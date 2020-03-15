@@ -1,0 +1,3 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+it allowed me to check differences line by line without doing it manually
+commit at logical times
